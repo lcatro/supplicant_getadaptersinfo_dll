@@ -1,0 +1,11 @@
+LIBRARY LIB
+
+EXPORTS
+
+GetAdaptersInfo @ 1;
+GetNetworkParams @ 2;
+GetInterfaceInfo @ 3;
+IpReleaseAddress @ 4;
+IpRenewAddress @ 5;
+AddIPAddress @ 6;
+DeleteIPAddress @ 7;
